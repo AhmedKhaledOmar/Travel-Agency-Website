@@ -4,4 +4,4 @@
   -helps all suppliers to put their offers in our website.
    You can make your own travel package. Technologies currently being used: HTML, CSS, Java Script and jQuery for front end development, C# .Net 5, LinQ, Entity          Framework Core and SQL Server for backend development.
 
-**-Website Link : https://travilista.azurewebsites.net**
+**-Website Link : https://travilista.com/**
